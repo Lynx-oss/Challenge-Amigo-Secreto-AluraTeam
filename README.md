@@ -13,3 +13,6 @@ Este proyecto es un desafío de programación que tiene como objetivo fortalecer
 - **CSS:**
   
 - **JavaScript:**
+
+## Link del proyecto
+https://lynx-oss.github.io/Challenge-Amigo-Secreto-AluraTeam/
